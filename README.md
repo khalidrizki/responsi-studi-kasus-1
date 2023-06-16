@@ -1,6 +1,6 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
+Nama : Khalid Rizki Ananta  
 NIU : [NIU]  
 Sesi : [SESI]  
 Secret String : [SECRET_STRING]
