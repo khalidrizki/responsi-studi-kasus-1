@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Khalid Rizki Ananta  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+NIU : 460548  
+Sesi : sesi-jarkom-1  
+Secret String : db99f9f385b968d8f124b396750e1b21e43b7dd8677835dff79b4d115b81a8ab20230616030717
 
 ## Checklist Responsi
 
